@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naim Farhat
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning ReactJS, GraphQL, and MongoDB
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning NextJS, Supabase, and Drizzle
 - 💞️ I’m looking to collaborate on any open source projects
 - 📫 How to reach me via email - naimmfarhatt@gmail.com
 
